@@ -5,3 +5,23 @@
   padding: 0;
   font-family: 'Roboto', sans-serif;
 }
+
+/* ==== GERAL ===== */
+body {
+  background-color: #f2f2f0;
+}
+
+/* ==== HEADER ===== */
+header {
+  background-color: #425b8c;
+  padding: 16px 0;
+  color: #010d26;
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  border-bottom: 16px solid #011640;
+}
+header h1 {
+  text-transform: uppercase;
+  font-style: italic;
+}
