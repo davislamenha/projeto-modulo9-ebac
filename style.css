@@ -10,6 +10,18 @@
 body {
   background-color: #f2f2f0;
 }
+input,
+button {
+  padding: 8px;
+}
+button {
+  cursor: pointer;
+  border: none;
+  background-color: #8f9fbf;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #010d26;
+}
 
 /* ==== HEADER ===== */
 header {
@@ -24,4 +36,14 @@ header {
 header h1 {
   text-transform: uppercase;
   font-style: italic;
+}
+
+/* ==== FORMULARIO ===== */
+form {
+  padding-block: 24px;
+  text-align: center;
+}
+form #botao-cancelar {
+  background-color: #bf2c1f;
+  color: #fff;
 }
