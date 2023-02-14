@@ -43,6 +43,9 @@ form {
   padding-block: 24px;
   text-align: center;
 }
+form h2 {
+  margin-bottom: 12px;
+}
 form #botao-cancelar {
   background-color: #bf2c1f;
   color: #fff;
