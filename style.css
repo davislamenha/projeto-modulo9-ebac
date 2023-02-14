@@ -40,11 +40,16 @@ header h1 {
 
 /* ==== FORMULARIO ===== */
 form {
+  background-color: #8f9fbf;
   padding-block: 24px;
   text-align: center;
 }
 form h2 {
   margin-bottom: 12px;
+}
+form #botao-adicionar {
+  background-color: #011640;
+  color: #fff;
 }
 form #botao-cancelar {
   background-color: #bf2c1f;
