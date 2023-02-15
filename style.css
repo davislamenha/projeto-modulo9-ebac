@@ -40,6 +40,7 @@ header h1 {
 
 /* ==== FORMULARIO ===== */
 form {
+  display: none;
   background-color: #8f9fbf;
   padding-block: 24px;
   text-align: center;
